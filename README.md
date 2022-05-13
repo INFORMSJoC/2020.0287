@@ -7,7 +7,7 @@ Computing](https://pubsonline.informs.org/journal/ijoc) under the
 [MIT license](LICENSE.md).
 
 The software, StochasticPrograms.jl, and data in this repository are associated with the paper
-[Efficient Stochastic Programming in Julia]()
+[Efficient Stochastic Programming in Julia](https://doi.org/10.1287/ijoc.2022.1158)
 by M. Biel and M. Johansson.
 
 This repository is a snapshot of the project, taken on 2021-07-01 from
