@@ -22,10 +22,8 @@ for the latest documentation.
 
 ## Cite
 
-To cite this software, please cite the [paper]() using its DOI
-and the software itself, using the following DOI.
-
-[![DOI](https://zenodo.org/badge/319404787.svg)](https://zenodo.org/badge/latestdoi/319404787)
+To cite this software, please cite the [paper](https://doi.org/10.1287/ijoc.2022.1158) using its DOI
+and the software itself, using the following [https://doi.org/10.1287/ijoc.2022.1158.cd](https://doi.org/10.1287/ijoc.2022.1158.cd).
 
 Below is the BibTex for citing this version of the code.
 
